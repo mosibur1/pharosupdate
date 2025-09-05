@@ -1,11 +1,5 @@
 # Pharos Auto Bot
 
-![Node.js](https://img.shields.io/badge/Node.js-v16.0+-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-5.0-orange)
-![GitHub Issues](https://img.shields.io/github/issues/thekazuha787/Pharos-Auto-Bot)
-![GitHub Stars](https://img.shields.io/github/stars/thekazuha787/Pharos-Auto-Bot)
-
 **Pharos Auto Bot** is an advanced automation tool for the Pharos Testnet (Chain ID: 688688), designed to streamline blockchain interactions. It supports a wide range of tasks including daily sign-ins, faucet claims, token transfers, wrapping/unwrapping PHRS to WPHRS, token swaps, liquidity provision, NFT minting, and specialized tasks like AquaFlux minting, Faroswap, AutoStaking, PNS domain minting, OpenFi, CFD trading, Spout, Bitverse, and R2 activities. Built with Node.js and `ethers.js`, it features a user-friendly CLI with colorful logging via `chalk` and robust error handling.
 
 **"LETS FUCK THIS TESTNET"** - Kazuha787
@@ -49,8 +43,8 @@
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/thekazuha787/Pharos-Auto-Bot.git
-   cd Pharos-Auto-Bot
+  https://github.com/mosibur1/pharosupdate.git
+   cd pharosupdate
    ```
 
 2. **Install Dependencies**:
@@ -162,6 +156,3 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Disclaimer
 For educational and testing purposes on the Pharos Testnet only. Use at your own risk. The author is not liable for any losses or damages.
-
----
-*Created by [thekazuha787](https://github.com/thekazuha787)*
