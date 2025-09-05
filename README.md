@@ -2,8 +2,6 @@
 
 **Pharos Auto Bot** is an advanced automation tool for the Pharos Testnet (Chain ID: 688688), designed to streamline blockchain interactions. It supports a wide range of tasks including daily sign-ins, faucet claims, token transfers, wrapping/unwrapping PHRS to WPHRS, token swaps, liquidity provision, NFT minting, and specialized tasks like AquaFlux minting, Faroswap, AutoStaking, PNS domain minting, OpenFi, CFD trading, Spout, Bitverse, and R2 activities. Built with Node.js and `ethers.js`, it features a user-friendly CLI with colorful logging via `chalk` and robust error handling.
 
-**"LETS FUCK THIS TESTNET"** - Kazuha787
-
 ## Table of Contents
 - [Features](#features)
 - [Prerequisites](#prerequisites)
